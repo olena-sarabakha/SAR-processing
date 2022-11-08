@@ -1,5 +1,5 @@
 %%=========================================================================
-%HELP: fucntion that applies the Contrast Optimization (CO) autofocus
+%HELP: function that applies the Contrast Optimization (CO) autofocus
 %algorithm. Input: input_matrix, in double time domain; beta,
 %nominal value of the focalizaion parameter; beta_ext, extention of beta
 %values --> interval where to look for the correct value of beta; PRT, 
