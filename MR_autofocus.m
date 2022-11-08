@@ -1,6 +1,6 @@
 
 %%=========================================================================
-%%HELP: fuction that applies the Multilook Registration Algorithm to
+%%HELP: function that applies the Multilook Registration Algorithm to
 %%autofocus the image. Input: input_image, in double time domain;
 %%Tsa, synthetic aperture time; beta, nominal value of the ficalization
 %%parameter; lambda, wavelength of the signal; R0, closest-approach
