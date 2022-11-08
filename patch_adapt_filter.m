@@ -6,7 +6,7 @@ function [patch_filtered_image, dim_patch, beta] = patch_adapt_filter(raw_matrix
 %%the depth of focus criterion. Input: raw_matrix, I&Q matrix that has to
 %%be focused; ps_range, pixel ranging in range; da, antenna's dimension in
 %%azimuth; lambda, signal's wavelength; altitude, altitude of the SAR
-%%platform; L, near range distnce; va, velcoity of the SAR paltform; fa,
+%%platform; L, near range distance; va, velocity of the SAR platform; fa,
 %%azimuth frequency vector; R0, closest-approach distance; beta_center,
 %%focalization parameter relative to the center of swath. Output:
 %%patch_filtered_image, filtered image; dim_patch, dimension of the
